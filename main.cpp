@@ -51,6 +51,7 @@ New/This/Pointers/References conclusion
  6) replace your main() with the main() below.
     It has some intentional mistakes that you need to fix to match the expected output
     i.e. don't forget to dereference your pointers to get the value they hold.
+    Do not change any values being passed into the functions.
 
  7) click the [run] button.  Clear up any errors or warnings as best you can.
  */
